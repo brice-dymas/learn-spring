@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="intro-jdbctemplate-end" />
+        <module name="transactions-in-spring-end" />
+        <module name="spring-with-jpa-and-hibernate-end" />
+        <module name="intro-jdbctemplate-start" />
+        <module name="project-persistence-with-spring-data-jpa-start" />
+        <module name="pagination-and-sorting-start" />
+        <module name="beyond-the-default-repository-end" />
+        <module name="beyond-the-default-repository-start" />
+        <module name="spring-with-jpa-and-hibernate-start" />
+        <module name="pagination-and-sorting-end" />
+        <module name="transactions-in-spring-start" />
+        <module name="project-persistence-with-spring-data-jpa-end" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="beyond-the-default-repository-end" target="1.8" />
+      <module name="beyond-the-default-repository-start" target="1.8" />
+      <module name="intro-jdbctemplate-end" target="1.8" />
+      <module name="intro-jdbctemplate-start" target="1.8" />
+      <module name="learn-spring-m5" target="1.5" />
+      <module name="pagination-and-sorting-end" target="1.8" />
+      <module name="pagination-and-sorting-start" target="1.8" />
+      <module name="project-persistence-with-spring-data-jpa-end" target="1.8" />
+      <module name="project-persistence-with-spring-data-jpa-start" target="1.8" />
+      <module name="spring-with-jpa-and-hibernate-end" target="1.8" />
+      <module name="spring-with-jpa-and-hibernate-start" target="1.8" />
+      <module name="transactions-in-spring-end" target="1.8" />
+      <module name="transactions-in-spring-start" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="beyond-the-default-repository-end" options="-parameters" />
+      <module name="beyond-the-default-repository-start" options="-parameters" />
+      <module name="intro-jdbctemplate-end" options="-parameters" />
+      <module name="intro-jdbctemplate-start" options="-parameters" />
+      <module name="pagination-and-sorting-end" options="-parameters" />
+      <module name="pagination-and-sorting-start" options="-parameters" />
+      <module name="project-persistence-with-spring-data-jpa-end" options="-parameters" />
+      <module name="project-persistence-with-spring-data-jpa-start" options="-parameters" />
+      <module name="spring-with-jpa-and-hibernate-end" options="-parameters" />
+      <module name="spring-with-jpa-and-hibernate-start" options="-parameters" />
+      <module name="transactions-in-spring-end" options="-parameters" />
+      <module name="transactions-in-spring-start" options="-parameters" />
+    </option>
+  </component>
+</project>
